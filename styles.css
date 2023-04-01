@@ -4,9 +4,11 @@
 	background-color:black;
 	color:white;
 	border-radius:5px;
-	transition-property: background-color border-radius;
+	border:0px;
+	transition-property: background-color border-radius color;
 }
 .first:hover{
 	background-color:yellow;
+	color:black;
 	border-radius:300px;
 }
