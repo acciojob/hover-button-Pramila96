@@ -4,8 +4,8 @@
 	background-color:black;
 	color:white;
 	border-radius:5px;
-	border:0px;
-	transition-property: background-color border-radius color;
+	//border:0px;
+	transition:all 0s linear;
 }
 .first:hover{
 	background-color:yellow;
